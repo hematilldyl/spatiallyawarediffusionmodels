@@ -1,0 +1,12 @@
+torch 
+torchvision
+accelerate
+diffusers
+transformers
+xformers
+numpy
+datasets
+wandb
+black~=23.1
+isort>=5.5.4
+ruff>=0.0.241,<=0.0.259
